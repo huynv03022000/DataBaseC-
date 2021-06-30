@@ -1,0 +1,6 @@
+input 
+abc
+output 
+xyz
+mark
+1
